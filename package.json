@@ -1,0 +1,23 @@
+{
+  "name": "login-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iVanVitali/login-firebase.git"
+  },
+  "author": "Ivan Vitali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iVanVitali/login-firebase/issues"
+  },
+  "homepage": "https://github.com/iVanVitali/login-firebase#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
